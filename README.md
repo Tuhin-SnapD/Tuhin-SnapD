@@ -1,4 +1,4 @@
-[![Header](https://github.com/Tuhin-SnapD/Git-Config/blob/main/header_picture.jpg? "Header")](https://github.com/Tuhin-SnapD/Git-Config/blob/main/header_picture.jpg)
+[![Header](https://github.com/Tuhin-SnapD/Tuhin-SnapD/blob/main/header_picture.jpg? "Header")](https://github.com/Tuhin-SnapD/Tuhin-SnapD/blob/main/header_picture.jpg)
 
 <p align='center'>  
   <img alt="C++" height="30px" src="https://api.iconify.design/logos:c-plusplus.svg" />
