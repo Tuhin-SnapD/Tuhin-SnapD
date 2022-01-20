@@ -14,7 +14,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Hello there! I am **Tuhin Chakrabarty)** and I'd like to thank you for visiting my profile. I am a CSE undergrad at VIT Vellore, looking forward to learn new things and explore opportunities in technology.
+Hello there! I am **Tuhin Chakrabarty** and I'd like to thank you for visiting my profile. I am a CSE undergrad at VIT Vellore, looking forward to learn new things and explore opportunities in technology.
 
 
 ![Tuhin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuhin-SnapD)
