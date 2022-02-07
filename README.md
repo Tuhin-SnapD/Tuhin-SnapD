@@ -26,8 +26,8 @@ Hello there! I am **Tuhin Chakrabarty** and I'd like to thank you for visiting m
 
 
 ## 🌱 I’m currently learning: 
-- Express 
-- React Native + React
+- Unity
+- MERN Stack
 - C#
 
 ## 👨‍💻 Interests:
