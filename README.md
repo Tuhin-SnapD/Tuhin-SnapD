@@ -8,7 +8,7 @@
   <img alt="react" height="30px" src="https://api.iconify.design/logos:react.svg" />
   <img alt="angular" height="30px" src="https://api.iconify.design/logos:angular.svg" />
   <img alt="node" height="30px" src="https://api.iconify.design/logos:nodejs.svg" />
-  <img alt="pyhton" height="30px" src="https://api.iconify.design/logos:pyhton.svg" />
+  <img alt="pyhton" height="30px" src="https://api.iconify.design/logos:python.svg" />
   <img alt="django" height="30px" src="https://api.iconify.design/logos:django.svg" />
   <img alt="php" height="30px" src="https://api.iconify.design/logos:php.svg" />
   
