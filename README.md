@@ -26,9 +26,9 @@ Hello there! I am **Tuhin Chakrabarty** and I'd like to thank you for visiting m
 
 
 ## 🌱 I’m currently learning: 
-- Unity
+- MEAN Stack
 - MERN Stack
-- C#
+- Django
 
 ## 👨‍💻 Interests:
 - Full-Stack Development
@@ -37,6 +37,6 @@ Hello there! I am **Tuhin Chakrabarty** and I'd like to thank you for visiting m
 
 ## :speech_balloon:	 Reach me
 - [Mail](mailto:tuhinchakrabarty14@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- [Linkedin](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
+- [LinkedIn](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
 
 
