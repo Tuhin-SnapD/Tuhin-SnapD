@@ -22,7 +22,7 @@ Hello there! I am **Tuhin Chakrabarty** and I'd like to thank you for visiting m
 ## 🔭 I’m currently working on: 
 - Web-Development
 - Data Structures
-- Computer Vision
+- Communication Skills
 
 
 ## 🌱 I’m currently learning: 
@@ -37,5 +37,6 @@ Hello there! I am **Tuhin Chakrabarty** and I'd like to thank you for visiting m
 
 ## :speech_balloon:	 Reach me
 - [Mail](mailto:tuhinchakrabarty14@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- [Linkedin](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
 
 
