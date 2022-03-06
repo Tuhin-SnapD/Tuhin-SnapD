@@ -5,7 +5,7 @@
   <img alt="node" height="30px" src="https://api.iconify.design/logos:nodejs.svg" />
   <img alt="VisualStudio" height="30px" src="https://api.iconify.design/logos:visual-studio-code.svg" />
   <img alt="java" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
-  <img alt="unity" height="30px" src="https://api.iconify.design/logos:unity.svg" />
+  <img alt="django" height="30px" src="https://api.iconify.design/logos:django.svg" />
   <img alt="git" height="30px" src="https://api.iconify.design/logos:git.svg" />
 
  
