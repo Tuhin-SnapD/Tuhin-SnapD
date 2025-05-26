@@ -79,7 +79,7 @@ Outside work, I enjoy exploring India’s cultural heritage, like Pattachitra ar
 
 ## Social / Portfolio Links
 
-- **LinkedIn:** [linkedin.com/in/tuhin-chakrabarty](https://linkedin.com/in/tuhin-chakrabarty)
+- **LinkedIn:** [linkedin.com/in/tuhin-chakrabarty](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
 - **GitHub:** [github.com/tuhin](https://github.com/tuhin-snapd)
 
 
