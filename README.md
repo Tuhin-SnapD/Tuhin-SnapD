@@ -1,15 +1,13 @@
 [![Header](https://github.com/Tuhin-SnapD/Tuhin-SnapD/blob/main/header.jpg? "Header")](https://github.com/Tuhin-SnapD/Tuhin-SnapD/blob/main/header_picture.jpg)
 
 <p align='center'>  
-    <img alt="c++" height="30px" src="https://api.iconify.design/logos:c++.svg" />
-    <img alt="pyhton" height="30px" src="https://api.iconify.design/logos:python.svg" />
-  <img alt="java" height="30px" src="https://api.iconify.design/logos:java.svg" />
-
-  <img alt="javascript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
-  <img alt="express" height="30px" src="https://api.iconify.design/logos:express.svg" />
-  <img alt="react" height="30px" src="https://api.iconify.design/logos:react.svg" />
-  <img alt="node" height="30px" src="https://api.iconify.design/logos:nodejs.svg" />
-  <img alt="django" height="30px" src="https://api.iconify.design/logos:django.svg" />
+      <img alt="c++" height="30px" src="https://api.iconify.design/logos:cpp.svg" />
+      <img alt="pyhton" height="30px" src="https://api.iconify.design/logos:python.svg" />
+      <img alt="java" height="30px" src="https://api.iconify.design/logos:java.svg" />
+      <img alt="javascript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
+      <img alt="react" height="30px" src="https://api.iconify.design/logos:react.svg" />
+      <img alt="node" height="30px" src="https://api.iconify.design/logos:nodejs.svg" />
+      <img alt="django" height="30px" src="https://api.iconify.design/logos:django.svg" />
 
 
   
