@@ -1,7 +1,7 @@
 [![Header](https://github.com/Tuhin-SnapD/Tuhin-SnapD/blob/main/header.jpg? "Header")](https://github.com/Tuhin-SnapD/Tuhin-SnapD/blob/main/header_picture.jpg)
 
 <p align='center'>  
-      <img alt="c++" height="30px" src="https://api.iconify.design/logos:cpp.svg" />
+      <img alt="c++" height="30px" src="https://api.iconify.design/logos:c.svg" />
       <img alt="pyhton" height="30px" src="https://api.iconify.design/logos:python.svg" />
       <img alt="java" height="30px" src="https://api.iconify.design/logos:java.svg" />
       <img alt="javascript" height="30px" src="https://api.iconify.design/logos:javascript.svg" />
