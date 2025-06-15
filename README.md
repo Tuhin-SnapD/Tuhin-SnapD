@@ -35,7 +35,7 @@
 
 ## 🛠 What I Work With
 
-<details>
+
 <summary><strong>Languages & Frameworks</strong></summary>
 
 | 💻 Languages      | ⚙️ Frameworks            | ☁️ Cloud & Tools       |
@@ -45,9 +45,7 @@
 | Java & JavaScript | Tornado & Node.js        | Jenkins & Ansible      |
 | SQL & NoSQL       | Rasa (NLP)               | Git                    |
 
-</details>
 
-<details>
 <summary><strong>Concepts & Practices</strong></summary>
 
 - System Design & Clean Architecture  
@@ -55,14 +53,14 @@
 - DevOps & CI/CD  
 - Agile & TDD  
 - Real-time Monitoring & Alerting  
-</details>
+
 
 ---
 
 ## 🏆 Key Achievements
 
 - 🚀 **Apex/Martini Trading Platform**  
-  Contributed high-frequency transaction workflows for HFT.  
+  Contributed high-frequency transaction workflows for Fonance Systems.  
 - 🤖 **Chatbot Integration**  
   Slashed license costs by 25% with Rasa-powered assistants.  
 - ⚙️ **Automation Interfaces**  
@@ -70,27 +68,6 @@
 - 🔒 **Security Compliance**  
   Helped remediate vulnerabilities in real-time systems.  
 
----
-
-## 💻 Featured Projects
-
-### 1. Lead Management CRM  
-**Stack:** Django • Tailwind CSS • MySQL  
-- Real-time lead tracking & analytics  
-- Sleek, responsive UI for maximum sales flow  
-- 🔗 [View Project →](#)
-
-### 2. Stock Market Simulator  
-**Stack:** Python • NumPy • Pandas • Financial APIs  
-- 95% accurate MA-crossover strategies  
-- Real-time performance optimization  
-- 🔗 [View Project →](#)
-
-### 3. Multilingual News Summarizer  
-**Stack:** Python • Hugging Face • NewsAPI • Rasa  
-- Summaries in multiple languages  
-- Fully automated pipeline  
-- 🔗 [View Project →](#)
 
 ---
 
