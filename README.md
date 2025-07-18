@@ -88,26 +88,3 @@ Or drop a 💌 below!
 
 ---
 
-✅ 
-Thresholds (position limits, timeouts)
-
-Exception flows
-
-“Hardcoded risk” logic
-
-Logging & alerts
-
-
-Aggregate these into dashboards: service-wise, module-wise, risk-surface area.
-
-🎯 Benefits:
-
-Real-time visibility into risk controls
-
-Better control self-assessments (CSAs)
-
-Accelerates risk audit readiness
-
-
-
----
