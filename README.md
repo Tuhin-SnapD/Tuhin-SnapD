@@ -8,9 +8,10 @@
 
 **Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuhin-snapd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuhin-SnapD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuhin-snapd.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuhin-dev.lovable.app/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tuhinchakrabart1)
 
 </div>
 
@@ -18,7 +19,23 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer with expertise in modern web technologies, AI/ML, and scalable applications. My journey spans from basic Python projects to advanced AI-driven solutions, demonstrating continuous growth and innovation in software development.
+I'm a passionate full-stack developer with expertise in modern web technologies, AI/ML, and scalable applications. Currently working as a **Software Engineer at Bank of America** in GIFT City, India, where I contribute to the development and maintenance of the Apex/Martini Global Repo Trading Platform. My journey spans from basic Python projects to advanced AI-driven solutions, demonstrating continuous growth and innovation in software development.
+
+### 💼 **Professional Experience**
+- **Software Engineer** @ Bank of America (July 2023 - Present)
+  - Contributing to Apex/Martini Global Repo Trading Platform
+  - Implementing trade booking and maintenance solutions for Repo and Securities Lending trades
+  - Developed Tornado API for Optimus Global Markets Chatbot integration
+  - Created React-based automation tools reducing testing time by 90%
+
+- **Software Engineering Intern** @ Able Jobs (February 2022 - April 2022)
+  - Designed end-to-end lead management CRM tool
+  - Full-stack development with Django, Tailwind CSS, and MySQL
+
+### 🎓 **Education**
+- **B.Tech in Computer Science & Engineering** @ Vellore Institute of Technology, Vellore
+- **CGPA: 8.6** (2019-2023)
+- Specialized in Advanced Algorithms, Data Structures, OS, DBMS, Computer Networks, Distributed Systems
 
 ### 🛠️ Tech Stack
 
@@ -97,6 +114,15 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 - **SQLite** - Lightweight database for local applications
 - **Redis** - Caching and session management
 
+### 🏆 **Certifications & Achievements**
+- **HackerRank Certifications:**
+  - Java (Basic) • Problem Solving (Basic) • JavaScript (Basic/Intermediate)
+  - SQL (Basic/Intermediate/Advanced) • Python (Basic) • C++ • C Language
+  - Frontend Developer (React) • Software Engineer • Software Engineer Intern
+- **Problem Solving Skills** - Advanced algorithms and data structures
+- **Full-Stack Development** - MERN & MEAN stack expertise
+- **AI/ML Engineering** - NLP, Computer Vision, Predictive Analytics
+
 ---
 
 ## 📈 GitHub Statistics
@@ -134,10 +160,11 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuhin-snapd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuhin-SnapD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuhin-snapd.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tuhin.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuhin-dev.lovable.app/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tuhinchakrabart1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinchakrabarty14@gmail.com)
 
 </div>
 
@@ -149,7 +176,7 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 
 **Thanks for visiting my portfolio! Feel free to reach out for collaborations or opportunities.**
 
-![Visitor Count](https://profile-counter.glitch.me/Tuhin-SnapD/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Tuhin-SnapD&color=blueviolet&style=flat-square)
 
 </div>
 
