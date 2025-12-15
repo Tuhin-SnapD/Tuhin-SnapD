@@ -8,10 +8,7 @@
 
 **Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuhin-SnapD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuhin-dev.lovable.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tuhinchakrabart1)
+
 
 </div>
 
@@ -157,28 +154,4 @@ I'm a passionate full-stack developer with expertise in modern web technologies,
 - **Web Apps** → **Mobile Apps** → **AI-Powered Solutions**
 
 ---
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tuhin-SnapD)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuhin-dev.lovable.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/tuhinchakrabart1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuhinchakrabarty14@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **Star this repository if you found it helpful!** ⭐
-
-**Thanks for visiting my portfolio! Feel free to reach out for collaborations or opportunities.**
-
-![Profile Views](https://komarev.com/ghpvc/?username=Tuhin-SnapD&color=blueviolet&style=flat-square)
-
-</div>
 
