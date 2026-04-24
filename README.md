@@ -1,157 +1,238 @@
-# 👨‍💻 Tuhin's Developer Portfolio
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--   ✨ TUHIN'S GITHUB — where curiosity compiles into code ✨    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Tuhin-SnapD">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Tuhin%20%E2%9A%A1%20SnapD&fontSize=72&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Tinkerer%20%E2%80%A2%20Banking%20Platform%20Engineer&descAlignY=56&descSize=16" alt="header banner"/>
+</a>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tuhin-SnapD&color=blueviolet&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/Tuhin-SnapD?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/Tuhin-SnapD?style=social)
+  <a href="https://github.com/Tuhin-SnapD">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=60&lines=Hey+there%2C+I'm+Tuhin+%F0%9F%91%8B;Software+Engineer+%40+Bank+of+America+%F0%9F%8F%A6;I+turn+caffeine+into+commits+%E2%98%95+%E2%86%92+%F0%9F%92%BB;Shipping+React%2C+Python%2C+and+the+occasional+LLM+%F0%9F%A4%96;Let's+build+something+wild!+%F0%9F%9A%80" alt="typing animation"/>
+  </a>
 
-**Full-Stack Developer | AI/ML Enthusiast | Open Source Contributor**
+</div>
 
+<div align="center">
 
+  <img src="https://komarev.com/ghpvc/?username=Tuhin-SnapD&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/Tuhin-SnapD?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0D1117&logo=github" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Tuhin-SnapD?label=Stars&style=for-the-badge&color=eab308&labelColor=0D1117&logo=github" alt="stars"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collab-ff69b4?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" alt="open to collab"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate full-stack developer with expertise in modern web technologies, AI/ML, and scalable applications. Currently working as a **Software Engineer at Bank of America** in GIFT City, India, where I contribute to the development and maintenance of the Apex/Martini Global Repo Trading Platform. My journey spans from basic Python projects to advanced AI-driven solutions, demonstrating continuous growth and innovation in software development.
+```typescript
+const tuhin: Developer = {
+  name:          "Tuhin",
+  pronouns:      "he/him",
+  role:          "Software Engineer",
+  company:       "Bank of America  🏦",
+  location:      "GIFT City, India  🌏",
+  education:     "B.Tech CSE, VIT Vellore (CGPA 8.6)",
 
-### 💼 **Professional Experience**
-- **Software Engineer** @ Bank of America (July 2023 - Present)
-  - Contributing to Apex/Martini Global Repo Trading Platform
-  - Implementing trade booking and maintenance solutions for Repo and Securities Lending trades
-  - Developed Tornado API for Optimus Global Markets Chatbot integration
-  - Created React-based automation tools reducing testing time by 90%
+  code:          ["Python", "TypeScript", "JavaScript", "Java", "C++", "PHP"],
+  frameworks:    ["React", "Angular", "React Native", "Django", "Flask", "FastAPI", "Express"],
+  databases:     ["MongoDB", "MySQL", "SQLite", "Redis"],
+  cloud:         ["AWS", "Docker", "GitHub Actions"],
+  tinkeringWith: ["LLMs", "Agents", "System Design", "Rust"],
 
-- **Software Engineering Intern** @ Able Jobs (February 2022 - April 2022)
-  - Designed end-to-end lead management CRM tool
-  - Full-stack development with Django, Tailwind CSS, and MySQL
+  askMeAbout:    ["trading systems", "NLP", "APIs", "React wizardry", "chai ☕"],
+  philosophy:    "ship > perfect — but tests > YOLO",
+  funFact:       "once cut a QA cycle by 90% with a single React automation 💥",
+};
+```
 
-### 🎓 **Education**
-- **B.Tech in Computer Science & Engineering** @ Vellore Institute of Technology, Vellore
-- **CGPA: 8.6** (2019-2023)
-- Specialized in Advanced Algorithms, Data Structures, OS, DBMS, Computer Networks, Distributed Systems
+---
 
-### 🛠️ Tech Stack
+## 🚀 What I'm Up To Right Now
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- 🏦 &nbsp;Building **Repo + Securities Lending** trade flows on the *Apex / Martini Global* platform @ Bank of America
+- 🤖 &nbsp;Tinkering with **LLM agents**, **RAG pipelines**, and local LLaMA workflows
+- 📚 &nbsp;Currently reading *Designing Data-Intensive Applications* (again, because it's *that* good)
+- 🧪 &nbsp;Open-sourcing experiments on NLP, pricing ML, and stock-trading sims
+- 💬 &nbsp;Ping me about **React**, **Django**, **NLP**, or if you just want to nerd out
+- 📫 &nbsp;Reach me via GitHub or LinkedIn — DMs open
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,c,php,html,css,bash" alt="languages"/>
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,angular,redux,bootstrap,tailwind,sass,materialui,vite" alt="frontend"/>
+
+### Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,graphql" alt="backend"/>
+
+### Databases & Data
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis,postgres" alt="databases"/>
+
+### DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,linux,postman,vscode,idea,vim" alt="devops"/>
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" alt="aiml"/>
+
+</div>
+
+---
+
+## 💼 Professional Experience
+
+> **🏦 Software Engineer — Bank of America** &nbsp;·&nbsp; *Jul 2023 – Present* &nbsp;·&nbsp; *GIFT City, India*
+> - Shipping trade booking & maintenance on the **Apex / Martini Global Repo Trading Platform**
+> - Built the **Tornado API** that powers the Optimus Global Markets chatbot
+> - Authored a **React-based QA automation tool** that cut manual testing time by **~90%**
+
+> **💡 Software Engineering Intern — Able Jobs** &nbsp;·&nbsp; *Feb 2022 – Apr 2022*
+> - Designed an end-to-end **Lead Management CRM** on Django + MySQL + Tailwind
+> - Handled everything: models, auth, UI, deploy. Full-stack trial by fire.
 
 ---
 
 ## 📊 Project Showcase
 
-### 🟢 **Basic Projects** - Foundation & Learning
+### 🟢 Foundations — where it all started
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 🐍 **Python-Projects** | Collection of beginner to intermediate Python projects including games, utilities, and automation scripts | Python, Tkinter, Pygame | [Repo](https://github.com/Tuhin-SnapD/Python-Projects) |
-| 🏢 **Business-Portfolio-Sample** | Simple HTML/CSS-based business portfolio template | HTML5, CSS3, JavaScript | [Repo](https://github.com/Tuhin-SnapD/Business-Portfolio-Sample) |
-| ⚙️ **Tuhin-SnapD** | Git configuration and dotfiles for custom terminal workflows | Shell Scripts, Git, Terminal | [Repo](https://github.com/Tuhin-SnapD/Tuhin-SnapD) |
-| 🌐 **Tuhin-SnapD.github.io** | Personal static portfolio site hosted via GitHub Pages | HTML5, CSS3, JavaScript | [Repo](https://github.com/Tuhin-SnapD/Tuhin-SnapD.github.io) |
-| 👗 **Bootstrap-Fashion-Site** | Responsive fashion website using Bootstrap with Gulp & Grunt automation | Bootstrap, Gulp, Grunt, SCSS | [Repo](https://github.com/Tuhin-SnapD/Bootstrap-Front-end-using-Gulp-Grunt-) |
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| 🐍 **Python-Projects** | Games, utilities, and automation scripts — my Python sandbox | Python · Tkinter · Pygame | [→](https://github.com/Tuhin-SnapD/Python-Projects) |
+| 🏢 **Business-Portfolio-Sample** | Clean, responsive HTML/CSS business template | HTML · CSS · JS | [→](https://github.com/Tuhin-SnapD/Business-Portfolio-Sample) |
+| ⚙️ **Tuhin-SnapD** | *(you're reading it)* dotfiles & terminal config | Shell · Git | [→](https://github.com/Tuhin-SnapD/Tuhin-SnapD) |
+| 🌐 **Tuhin-SnapD.github.io** | Personal portfolio on GH Pages | HTML · CSS · JS | [→](https://github.com/Tuhin-SnapD/Tuhin-SnapD.github.io) |
+| 👗 **Bootstrap-Fashion-Site** | Fashion site with Gulp + Grunt build pipelines | Bootstrap · Gulp · Grunt · SCSS | [→](https://github.com/Tuhin-SnapD/Bootstrap-Front-end-using-Gulp-Grunt-) |
 
-### 🟡 **Intermediate Projects** - Web Development & APIs
+### 🟡 Web & APIs — leveling up
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 🍽️ **React-Restaurant-App** | Elegant React app for fine-dining restaurant with Redux state management | React, Redux, Styled-Components | [Repo](https://github.com/Tuhin-SnapD/React-Restaurant-App) |
-| 📰 **Capstone-News-App** | Real-time news app using News API with Node.js and vanilla JS frontend | Node.js, News API, Vanilla JS | [Repo](https://github.com/Tuhin-SnapD/Capstone-News-App) |
-| 🏦 **Online-Banking-App** | Full-featured Angular app for online banking including account management and loans | Angular, TypeScript, RxJS | [Repo](https://github.com/Tuhin-SnapD/Online-Banking-App) |
-| 💬 **ChatApp** | Real-time group chat app using Socket.IO, Express, and Node.js | Socket.IO, Express, Node.js | [Repo](https://github.com/Tuhin-SnapD/ChatApp) |
-| 📊 **Lead-Management-System** | Django web app for managing sales leads and agents with authentication | Django, Python, SQLite | [Repo](https://github.com/Tuhin-SnapD/Lead-Management-System) |
-| 🍕 **Server-Restaurant** | Node.js + Express backend API for restaurant management with JWT auth | Node.js, Express, JWT, MongoDB | [Repo](https://github.com/Tuhin-SnapD/Server-Restaurant) |
-| 🍽️ **Angular-Restaurant-App** | Angular frontend restaurant app with modern SCSS-based styling | Angular, SCSS, TypeScript | [Repo](https://github.com/Tuhin-SnapD/Angular-Restaurant-App) |
-| 🛒 **E-Commerce-React-Application** | Fully responsive e-commerce app in React with styled-components | React, Styled-Components, Context API | [Repo](https://github.com/Tuhin-SnapD/E-Commerce-React-Application) |
-| 📱 **MyClasses-React-Native** | Cross-platform React Native app for education with Expo and optimized UI | React Native, Expo, AsyncStorage | [Repo](https://github.com/Tuhin-SnapD/MyClasses-React-Native) |
-| 🛍️ **Django-E-Commerce** | Django-based e-commerce site with login, feedback form, and image generation API | Django, Python, Pillow, SQLite | [Repo](https://github.com/Tuhin-SnapD/Django-E-Commerce) |
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| 🍽️ **React-Restaurant-App** | Fine-dining React app with Redux state | React · Redux · Styled-Components | [→](https://github.com/Tuhin-SnapD/React-Restaurant-App) |
+| 📰 **Capstone-News-App** | Real-time news feed wired to News API | Node.js · News API | [→](https://github.com/Tuhin-SnapD/Capstone-News-App) |
+| 🏦 **Online-Banking-App** | Accounts, transfers, loans — all in Angular | Angular · TS · RxJS | [→](https://github.com/Tuhin-SnapD/Online-Banking-App) |
+| 💬 **ChatApp** | Group chat with Socket.IO rooms | Socket.IO · Express | [→](https://github.com/Tuhin-SnapD/ChatApp) |
+| 📊 **Lead-Management-System** | Sales-lead CRM with auth & RBAC | Django · Python · SQLite | [→](https://github.com/Tuhin-SnapD/Lead-Management-System) |
+| 🍕 **Server-Restaurant** | REST API for restaurant ops w/ JWT | Node · Express · JWT · Mongo | [→](https://github.com/Tuhin-SnapD/Server-Restaurant) |
+| 🍽️ **Angular-Restaurant-App** | Angular front-end, SCSS styling | Angular · SCSS · TS | [→](https://github.com/Tuhin-SnapD/Angular-Restaurant-App) |
+| 🛒 **E-Commerce-React-Application** | Responsive shop, context-API cart | React · Context · Styled-Components | [→](https://github.com/Tuhin-SnapD/E-Commerce-React-Application) |
+| 📱 **MyClasses-React-Native** | Cross-platform edu app on Expo | React Native · Expo · AsyncStorage | [→](https://github.com/Tuhin-SnapD/MyClasses-React-Native) |
+| 🛍️ **Django-E-Commerce** | Django shop w/ feedback + image gen API | Django · Pillow · SQLite | [→](https://github.com/Tuhin-SnapD/Django-E-Commerce) |
 
-### 🔴 **Advanced Projects** - AI/ML & Complex Systems
+### 🔴 Advanced — AI, ML & systems
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| 📈 **Real-Time-Stock-Trading-Simulator** | Real-time stock trading simulator using yfinance with moving average strategy and SQLite logging | Python, yfinance, pandas, SQLite | [Repo](https://github.com/Tuhin-SnapD/Real-Time-Stock-Trading-Simulator) |
-| 🍽️ **Fullstack-Restaurant-App** | Full-stack restaurant management app with both MERN and MEAN implementations | MERN Stack, MEAN Stack, Docker | [Repo](https://github.com/Tuhin-SnapD/Fullstack-Restaurant-App) |
-| 🎯 **PricePilot-Intelligent-Pricing-Dashboard** | AI-driven pricing optimization dashboard with ML models and price elasticity forecasting | Python, ML, Flask, React, D3.js | [Repo](https://github.com/Tuhin-SnapD/PricePilot-Intelligent-Pricing-Dashboard) |
-| 📰 **NewsMelt-Advance-News-Finder** | NLP-powered news processing tool with graph-based summarization, topic modeling, and visualization | Python, NLP, NetworkX, spaCy, BERT | [Repo](https://github.com/Tuhin-SnapD/NewsMelt-Advance-News-Finder) |
-| 🤖 **Todos-List** | AI-first task manager using LLaMA models and Flask backend for natural language workflow generation | Python, LLaMA, Flask, React, OpenAI API | [Repo](https://github.com/Tuhin-SnapD/Todos-List) |
-| 📝 **Text-Summarization-Models** | Repository of summarization models using BART, TextRank, and other NLP techniques | Python, Transformers, BART, TextRank, PyTorch | [Repo](https://github.com/Tuhin-SnapD/Text-Summarization-Models) |
-| 🏛️ **Prison-Management-System** | PHP and MySQL-based management portal for prisons, with interactive modules and scalability | PHP, MySQL, JavaScript, Bootstrap | [Repo](https://github.com/Tuhin-SnapD/Prison-Management-System) |
-
----
-
-## 🔧 APIs & Services Used
-
-### 📡 **External APIs**
-- **News API** - Real-time news data for Capstone News App
-- **OpenAI API** - AI-powered task management in Todos-List
-- **yfinance API** - Real-time stock data for Trading Simulator
-- **Socket.IO** - Real-time communication for ChatApp
-
-### 🤖 **AI/ML Libraries**
-- **Transformers (Hugging Face)** - BART, BERT models for text processing
-- **spaCy** - NLP processing and entity recognition
-- **NetworkX** - Graph-based algorithms for news analysis
-- **scikit-learn** - Machine learning models for pricing optimization
-- **PyTorch** - Deep learning framework for custom models
-
-### 🗄️ **Databases**
-- **MongoDB** - NoSQL database for scalable applications
-- **MySQL** - Relational database for structured data
-- **SQLite** - Lightweight database for local applications
-- **Redis** - Caching and session management
-
-### 🏆 **Certifications & Achievements**
-- **HackerRank Certifications:**
-  - Java (Basic) • Problem Solving (Basic) • JavaScript (Basic/Intermediate)
-  - SQL (Basic/Intermediate/Advanced) • Python (Basic) • C++ • C Language
-  - Frontend Developer (React) • Software Engineer • Software Engineer Intern
-- **Problem Solving Skills** - Advanced algorithms and data structures
-- **Full-Stack Development** - MERN & MEAN stack expertise
-- **AI/ML Engineering** - NLP, Computer Vision, Predictive Analytics
+| Project | What it does | Stack | Link |
+|---|---|---|---|
+| 📈 **Real-Time-Stock-Trading-Simulator** | Live trading sim w/ moving-average strategy + SQLite log | Python · yfinance · pandas | [→](https://github.com/Tuhin-SnapD/Real-Time-Stock-Trading-Simulator) |
+| 🍽️ **Fullstack-Restaurant-App** | Same app in MERN *and* MEAN — stack wars | MERN · MEAN · Docker | [→](https://github.com/Tuhin-SnapD/Fullstack-Restaurant-App) |
+| 🎯 **PricePilot** | ML pricing dashboard w/ elasticity forecasting | Python · ML · Flask · React · D3 | [→](https://github.com/Tuhin-SnapD/PricePilot-Intelligent-Pricing-Dashboard) |
+| 📰 **NewsMelt** | Graph-based news summarizer, topic modeling, viz | Python · NetworkX · spaCy · BERT | [→](https://github.com/Tuhin-SnapD/NewsMelt-Advance-News-Finder) |
+| 🤖 **Todos-List** | LLM-powered task manager — tell it what you want, it plans | Python · LLaMA · Flask · React · OpenAI | [→](https://github.com/Tuhin-SnapD/Todos-List) |
+| 📝 **Text-Summarization-Models** | BART, TextRank, and friends — side-by-side | Python · Transformers · BART · PyTorch | [→](https://github.com/Tuhin-SnapD/Text-Summarization-Models) |
+| 🏛️ **Prison-Management-System** | PHP+MySQL portal w/ multiple scalable modules | PHP · MySQL · JS · Bootstrap | [→](https://github.com/Tuhin-SnapD/Prison-Management-System) |
 
 ---
 
-## 📈 GitHub Statistics
+## 🔌 APIs, Services & Models I've Shipped With
+
+| Category | Tech |
+|---|---|
+| 🌐 **External APIs** | News API · OpenAI · yfinance · Socket.IO |
+| 🧠 **AI / ML Libraries** | Hugging Face Transformers · spaCy · NetworkX · scikit-learn · PyTorch |
+| 🗄️ **Databases** | MongoDB · MySQL · SQLite · Redis |
+| ☁️ **Cloud & Infra** | AWS · Docker · GitHub Actions · CI/CD |
+| 🔐 **Auth & Security** | JWT · OAuth · RBAC |
+
+---
+
+## 📈 GitHub Stats — the receipts
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuhin-SnapD&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tuhin-SnapD&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="github stats"/>
+<img height="180" src="https://github-readme-streak-stats.demolab.com?user=Tuhin-SnapD&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F85D7F&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=C9D1D9" alt="streak"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin-SnapD&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin-SnapD&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="top languages"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tuhin-SnapD&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9)
+</div>
+
+### 🏆 Trophy Shelf
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tuhin-SnapD&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&row=2" alt="trophies"/>
+</div>
+
+### 📉 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tuhin-SnapD&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=F85D7F&point=C9D1D9&area=true&area_color=58A6FF" alt="activity graph"/>
+</div>
+
+### 🐍 Contributions Being Eaten Live
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tuhin-SnapD/Tuhin-SnapD/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tuhin-SnapD/Tuhin-SnapD/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Tuhin-SnapD/Tuhin-SnapD/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+## 🏅 Certifications & Wins
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HackerRank-Software%20Engineer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Frontend%20React-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/SQL-Advanced-00758F?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-Basic-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-Certified-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C-Certified-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Skills
+## 💭 Dev Quote of the Refresh
 
-### 🎯 **Core Competencies**
-- **Full-Stack Development** - MERN & MEAN stack expertise
-- **AI/ML Engineering** - NLP, Computer Vision, Predictive Analytics
-- **DevOps & Deployment** - Docker, AWS, CI/CD pipelines
-- **Database Design** - SQL & NoSQL database architecture
-- **API Development** - RESTful APIs, GraphQL, Microservices
-
-### 📚 **Learning Journey**
-- **Beginner** → **Intermediate** → **Advanced** project progression
-- **Python** → **JavaScript** → **AI/ML** skill evolution
-- **Frontend** → **Backend** → **Full-Stack** development path
-- **Web Apps** → **Mobile Apps** → **AI-Powered Solutions**
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random dev quote"/>
+</div>
 
 ---
 
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<a href="https://www.linkedin.com/in/tuhin-snapd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.hackerrank.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/></a>
+<a href="https://tuhin-snapd.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<a href="mailto:tuhin.snapd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ *If any of my projects sparked an idea, a star goes a long way.* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20scrolling!&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer"/>
+
+</div>
