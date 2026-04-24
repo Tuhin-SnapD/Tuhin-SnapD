@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/Tuhin-SnapD">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Tuhin%20%E2%9A%A1%20SnapD&fontSize=72&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Tinkerer%20%E2%80%A2%20Banking%20Platform%20Engineer&descAlignY=56&descSize=16" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Tuhin%20%E2%9A%A1%20SnapD&fontSize=72&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=Full-Stack%20Dev%20%E2%80%A2%20AI%2FML%20Tinkerer%20%E2%80%A2%20Fintech%20Engineer&descAlignY=56&descSize=16" alt="header banner"/>
 </a>
 
 <div align="center">
