@@ -9,7 +9,7 @@
 <div align="center">
 
   <a href="https://github.com/Tuhin-SnapD">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=60&lines=Hey+there%2C+I'm+Tuhin+%F0%9F%91%8B;Software+Engineer+%40+Bank+of+America+%F0%9F%8F%A6;I+turn+caffeine+into+commits+%E2%98%95+%E2%86%92+%F0%9F%92%BB;Shipping+React%2C+Python%2C+and+the+occasional+LLM+%F0%9F%A4%96;Let's+build+something+wild!+%F0%9F%9A%80" alt="typing animation"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=780&height=60&lines=Hey+there%2C+I'm+Tuhin+%F0%9F%91%8B;Software+Engineer+%40+PayU+%F0%9F%8F%A6;I+turn+caffeine+into+commits+%E2%98%95+%E2%86%92+%F0%9F%92%BB;Shipping+React%2C+Python%2C+and+the+occasional+LLM+%F0%9F%A4%96;Let's+build+something+wild!+%F0%9F%9A%80" alt="typing animation"/>
   </a>
 
 </div>
@@ -31,10 +31,10 @@
 const tuhin: Developer = {
   name:          "Tuhin",
   pronouns:      "he/him",
-  role:          "Software Engineer",
-  company:       "Bank of America  🏦",
-  location:      "GIFT City, India  🌏",
-  education:     "B.Tech CSE, VIT Vellore (CGPA 8.6)",
+  role:          "Software Engineer 2",
+  company:       "PayU",
+  location:      "Bengaluru, India  🌏",
+  education:     "B.Tech CSE, VIT Vellore",
 
   code:          ["Python", "TypeScript", "JavaScript", "Java", "C++", "PHP"],
   frameworks:    ["React", "Angular", "React Native", "Django", "Flask", "FastAPI", "Express"],
