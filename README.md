@@ -230,7 +230,7 @@ const tuhin: Developer = {
 
 ---
 
-<div align="center">\
+<div align="center">
 [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg)](https://hub.xerj.org/contributors/Tuhin-SnapD)
 
 ### ⭐ *If any of my projects sparked an idea, a star goes a long way.* ⭐
