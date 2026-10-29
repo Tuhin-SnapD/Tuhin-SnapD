@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/followers/Tuhin-SnapD?label=Followers&style=for-the-badge&color=0ea5e9&labelColor=0D1117&logo=github" alt="followers"/>
   <img src="https://img.shields.io/github/stars/Tuhin-SnapD?label=Stars&style=for-the-badge&color=eab308&labelColor=0D1117&logo=github" alt="stars"/>
   <img src="https://img.shields.io/badge/Open%20to-Collab-ff69b4?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" alt="open to collab"/>
-  [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg)](https://hub.xerj.org/contributors/Tuhin-SnapD)
+  
 
 </div>
 
@@ -230,7 +230,8 @@ const tuhin: Developer = {
 
 ---
 
-<div align="center">
+<div align="center">\
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg)](https://hub.xerj.org/contributors/Tuhin-SnapD)
 
 ### ⭐ *If any of my projects sparked an idea, a star goes a long way.* ⭐
 
