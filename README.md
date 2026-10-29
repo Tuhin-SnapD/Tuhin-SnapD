@@ -69,31 +69,21 @@ I'm a software engineer based in **Bengaluru, India**, currently working at **Pa
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tuhin-SnapD&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Tuhin-SnapD&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-  <br />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuhin-SnapD&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Most used programming languages" />
-</div>
-
-## 🌱 Community
-
-<div align="center">
-  <a href="https://hub.xerj.org/contributors/Tuhin-SnapD">
-    <img src="https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg" alt="XERJ Corpus Hub contributor" />
+  <a href="https://github.com/Tuhin-SnapD">
+    <img src="https://streak-stats.demolab.com?user=Tuhin-SnapD&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
   </a>
 </div>
 
-## 🤝 Connect
+## 🌱 Community & 🤝 Connect
 
 <div align="center">
+  <a href="https://hub.xerj.org/contributors/Tuhin-SnapD"><img src="https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
+  <br /><br />
   <a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/profile/tuhinchakrabart1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://tuhin-dev.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://tuhinc-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tuhin.snapd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<div align="center">
-  <br />
+  <br /><br />
   <sub>Building useful things, learning continuously, and shipping improvements one commit at a time.</sub>
 </div>
