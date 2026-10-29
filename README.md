@@ -216,25 +216,29 @@ const tuhin: Developer = {
 
 ---
 
+
 ## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
-<a href="https://www.linkedin.com/in/tuhin-snapd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="https://www.hackerrank.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/></a>
-<a href="https://tuhin-snapd.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
-<a href="mailto:tuhin.snapd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/tuhin-snapd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.hackerrank.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://tuhin-snapd.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:tuhin.snapd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
 ---
 
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/Tuhin-SnapD">
+    <img src="https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg" alt="XERJ Corpus Hub Contributor"/>
+  </a>
+</p>
+
+<h3 align="center">⭐ If any of my projects sparked an idea, a star goes a long way. ⭐</h3>
+
 <div align="center">
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg)](https://hub.xerj.org/contributors/Tuhin-SnapD)
-
-### ⭐ *If any of my projects sparked an idea, a star goes a long way.* ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20scrolling!&fontSize=22&fontColor=ffffff&animation=twinkling" alt="footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20scrolling!&fontSize=22&fontColor=ffffff&animation=twinkling" alt="Footer"/>
 </div>
