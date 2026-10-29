@@ -2,75 +2,96 @@
 
 <div align="center">
   <a href="https://github.com/Tuhin-SnapD">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Tuhin%20Chakrabarty&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%2FML&descAlignY=56&descSize=16" alt="Tuhin Chakrabarty — Software Engineer, Backend, AI/ML" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,45:172554,100:2563EB&height=230&section=header&text=Tuhin%20Chakrabarty&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Backend%20Engineering%20%E2%80%A2%20Payments%20%E2%80%A2%20Applied%20AI&descAlignY=58&descSize=16" alt="Tuhin Chakrabarty — Backend Engineering, Payments, Applied AI" width="100%" />
   </a>
 
-  <a href="https://github.com/Tuhin-SnapD">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+reliable+backend+systems;Python+%7C+APIs+%7C+Payments;Exploring+LLMs+and+AI+agents" alt="Building backend systems, working with Python and APIs, exploring AI agents" />
-  </a>
+  <p><strong>Software Engineer II @ PayU</strong> · Bengaluru, India</p>
+  <p>Building dependable services, useful automation, and thoughtful developer tools.</p>
 
   <p>
-    <a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/github/followers/Tuhin-SnapD?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub followers" /></a>
-    <a href="https://github.com/Tuhin-SnapD?tab=repositories"><img src="https://img.shields.io/github/stars/Tuhin-SnapD?style=for-the-badge&logo=github&label=Stars&color=eab308" alt="GitHub stars" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Tuhin-SnapD&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views" />
+    <a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/GitHub-View%20Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+    <a href="https://tuhinc-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Tuhin-SnapD&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/Tuhin-SnapD?style=flat-square&label=FOLLOWERS&color=0EA5E9" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/stars/Tuhin-SnapD?style=flat-square&label=STARS&color=EAB308" alt="GitHub stars" />
   </p>
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 A little about me
 
-I'm a software engineer based in **Bengaluru, India**, currently working at **PayU**. I enjoy building backend services, APIs, and automation that solve real engineering problems. My previous experience includes global-markets technology and trading systems at Bank of America, and I spend my time outside work exploring applied AI and developer tools.
+I'm a software engineer based in **Bengaluru, India**, currently working at **PayU** in payments engineering. Before that, I worked on global-markets technology and trading workflows at **Bank of America**. I enjoy turning complex workflows into reliable services and building automation that gives engineers time back.
 
-- 💼 **Current role:** Software Engineer II, PayU
-- 🎓 **Education:** B.Tech in Computer Science, VIT Vellore
-- 🧰 **Core interests:** Python backend engineering, APIs, system design, automation, and AI agents
-- 🤝 **Open to:** Thoughtful open-source collaboration and useful developer tools
+🎓 **B.Tech, Computer Science & Engineering** · VIT Vellore  
+🔎 **Current interests:** Python backend systems, API design, system design, LLMs, and AI agents  
+🤝 **Collaboration:** Open to thoughtful open-source work and practical developer tools
 
-## 🧰 Tech Stack
+## ⚡ Engineering focus
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🧩 Backend systems</h3>
+      <p align="center">Python services, APIs, and service-oriented design with an emphasis on reliability and maintainability.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🚀 Engineering impact</h3>
+      <p align="center"><strong>~90% less manual testing</strong><br/>Built a React-based QA automation tool to streamline repetitive testing.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🤖 Applied AI</h3>
+      <p align="center">Exploring LLM applications, retrieval-augmented generation, and agent workflows.</p>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Tech stack
 
 <div align="center">
-
-**Languages**  
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,php" alt="Python, TypeScript, JavaScript, Java, C++, PHP" />
-
-**Backend & Frontend**  
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,react,angular" alt="Django, Flask, FastAPI, Node.js, Express, React, Angular" />
-
-**Data, Cloud & Tools**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,aws,docker,githubactions,linux,git" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis, AWS, Docker, GitHub Actions, Linux, Git" />
-
-**AI / ML**  
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
-
+  <p><strong>Languages</strong><br/>
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,php" alt="Python, TypeScript, JavaScript, Java, C++, PHP" />
+  </p>
+  <p><strong>Backend & frontend</strong><br/>
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express,react,angular" alt="Django, Flask, FastAPI, Node.js, Express, React, Angular" />
+  </p>
+  <p><strong>Data, cloud & developer tools</strong><br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,aws,docker,githubactions,linux,git" alt="PostgreSQL, MySQL, MongoDB, SQLite, Redis, AWS, Docker, GitHub Actions, Linux, Git" />
+  </p>
+  <p><strong>AI / ML</strong><br/>
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
+  </p>
 </div>
 
 ## 💼 Experience
 
 ### Software Engineer II · PayU
-*Dec 2025 – Present · Bengaluru, India*
+<sub>Dec 2025 – Present · Bengaluru, India</sub>
 
 - Building and maintaining backend systems in the payments domain.
 - Working with Python, APIs, and service-oriented engineering patterns.
 
 ### Software Engineer · Bank of America
-*Jul 2023 – Nov 2025 · GIFT City, India*
+<sub>Jul 2023 – Nov 2025 · GIFT City, India</sub>
 
-- Worked on trade booking and maintenance workflows for the Apex / Martini Global Repo Trading Platform.
+- Worked on trade-booking and maintenance workflows for the Apex / Martini Global Repo Trading Platform.
 - Built a Tornado-based API supporting the internal Optimus Global Markets chatbot.
 - Developed a React-based QA automation tool that reduced manual testing time by approximately **90%**.
 
 ### Software Engineering Intern · Able Jobs
-*Feb 2022 – Apr 2022*
+<sub>Feb 2022 – Apr 2022</sub>
 
 - Built a lead-management CRM using Django, MySQL, and Tailwind CSS.
 - Worked across data models, authentication, UI, and deployment.
 
-## 📊 GitHub Activity
+## 📈 GitHub activity
 
 <div align="center">
   <a href="https://github.com/Tuhin-SnapD">
-    <img src="https://streak-stats.demolab.com?user=Tuhin-SnapD&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=Tuhin-SnapD&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F97316&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
   </a>
 </div>
 
@@ -78,12 +99,12 @@ I'm a software engineer based in **Bengaluru, India**, currently working at **Pa
 
 <div align="center">
   <a href="https://hub.xerj.org/contributors/Tuhin-SnapD"><img src="https://hub.xerj.org/contributors/Tuhin-SnapD/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
-  <br /><br />
+  <br/><br/>
   <a href="https://github.com/Tuhin-SnapD"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/tuhin-chakrabarty-1074aa19b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/profile/tuhinchakrabart1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://tuhinc-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:tuhin.snapd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br /><br />
-  <sub>Building useful things, learning continuously, and shipping improvements one commit at a time.</sub>
+  <br/><br/>
+  <sub>Thanks for stopping by — always happy to connect with people who build useful things.</sub>
 </div>
